@@ -8,8 +8,9 @@ Start a database search from the CPD homepage by clicking "Search Database" or g
 
 Add criteria to your search by clicking the "Add Criterion" button. Select the criterion you want using the "Select a criterion" dropdown. See the [CPD Quick Guide](https://cpd.chemcatbio.org/parameter-guide) or [Parameter Guide](/parameter-guide) section of this site for an explanation of each parameter that can be added as a search criterion.
 
-_Example of adding an Adsorbate="HNOH" search criterion:_
-TODO: add_criterion
+_Example of adding an Adsorbate="HNOH" search criterion (GIF):_
+
+![Add criterion example](_media/addcriterion_30.gif)
 
 For many criteria, such as Adsorbate, you can continue adding multiple entries from the dropdown list. The CPD will return results matching ANY of the entries entered within a single criterion.
 
@@ -61,16 +62,16 @@ _Example of reference species set preview:_
 
 You can view all of the info for a particular row of the results table by clicking the detail view icon on the left.
 
-_Loading the detail view:_
+_Loading the detail view (GIF):_
 
-TODO: detail video
+![Detail view example](_media/detail-view.gif)
 
 ### Manage Columns
 
 You can choose which columns you want to see in the results table by clicking the Manage Columns feature.
 
-_Example of editing columns using the Manage Columns feature:_
+_Example of editing columns using the Manage Columns feature (GIF):_
 
-TODO: manage columns
+![Manage columns example](_media/manage-columns_30.gif)
 
 1090 x 625
