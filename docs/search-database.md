@@ -1,6 +1,6 @@
 # Searching the Database
 
-## Searching
+## Search
 
 Start a database search from the CPD homepage by clicking "Search Database" or going to https://cpd.chemcatbio.org/search_database.
 
@@ -21,7 +21,7 @@ _Example of multiple entries for the Adsorbate criterion:_
 
 As you add criteria to your search, the results list will update live, giving you rapid feedback on whether you are finding the results you need.
 
-### Adding More Criteria
+### Add More Criteria
 
 You can add as many criteria as you like. The CPD will return all results that match ALL of your criteria.
 
@@ -29,15 +29,15 @@ _Example of multiple search criteria:_
 
 ![Multiple criteria screenshot](_media/multiple-criteria.png?glow)
 
-### Removing Criteria
+### Remove Criteria
 
 Remove any criterion by clicking the "Remove" button.
 
-### Clearing the Search
+### Clear the Search
 
 To remove all criteria and start over, simply reload the page.
 
-## Reviewing Results
+## Review Results
 
 Results from your search can be reviewed on the same page.
 
