@@ -73,5 +73,3 @@ You can choose which columns you want to see in the results table by clicking th
 _Example of editing columns using the Manage Columns feature (GIF):_
 
 ![Manage columns example](_media/manage-columns_30.gif)
-
-1090 x 625
