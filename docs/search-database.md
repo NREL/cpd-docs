@@ -12,7 +12,7 @@ _Example of adding an Adsorbate="HNOH" search criterion (GIF):_
 
 ![Add criterion example](_media/addcriterion_30.gif)
 
-For many criteria, such as Adsorbate, you can continue adding multiple entries from the dropdown list. The CPD will return results matching ANY of the entries entered within a single criterion.
+For many criteria, such as Adsorbate, you can continue adding multiple entries from the dropdown list. The CPD will return results matching ANY of the entries within a single criterion.
 
 _Example of multiple entries for the Adsorbate criterion:_
 
