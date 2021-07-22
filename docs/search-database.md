@@ -6,7 +6,7 @@ Start a database search from the CPD homepage by clicking "Search Database" or g
 
 ### Add Search Criteria
 
-Add criteria to your search by clicking the "Add Criterion" button. Select the criterion you want using the "Select a criterion" dropdown. See the [CPD Quick Guide](https://cpd.chemcatbio.org/parameter-guide) or [Parameter Guide](/parameter-guide) section of this site for an explanation of each parameter that can be added as a search criterion.
+Add criteria to your search by clicking the "Add Criterion" button. Select the criterion you want using the "Select a criterion" dropdown. See the [CPD Parameter Guide](https://cpd.chemcatbio.org/parameter-guide) or the [Parameter Guide](/parameter-guide) page on this site for an explanation of each parameter that can be added as a search criterion.
 
 _Example of adding an Adsorbate="HNOH" search criterion (GIF):_
 
