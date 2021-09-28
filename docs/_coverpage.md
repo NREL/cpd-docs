@@ -7,8 +7,10 @@
 **Welcome to the CPD User Guide.** Here you can find:
 - Background on the CPD
 - How to search the database
+- How to upload data
 
 [CPD Homepage](https://cpd.chemcatbio.org)
+[cpd-batch-upload on GitHub](https://github.com/NREL/cpd-batch-upload)
 [Read the User Guide](#catalyst-property-database-user-guide)
 
 ![](_media/CCB-logo.svg)
