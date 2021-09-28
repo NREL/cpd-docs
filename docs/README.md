@@ -6,6 +6,14 @@ Use the links at left to navigate through the guide. You can also return to the 
 
 ## Updates <!-- {docsify-ignore} -->
 
-This guide was just released! Let us know if you have any issues at cpd@nrel.gov
+Let us know if you have any issues with the user guide at cpd@nrel.gov
 
-Updates to the CPD User Guide will be described here. For details on updates to the CPD itself, go to https://cpd.chemcatbio.org/release-notes
+Updates to the CPD User Guide are described here. For details on updates to the CPD itself, go to https://cpd.chemcatbio.org/release-notes
+
+### 1.1.0 - 2021/09/30 <!-- {docsify-ignore} -->
+
+- Added information on [uploading](/uploading-data) and [curation](/curation)
+
+### 1.0.3 - 2021/06/30 <!-- {docsify-ignore} -->
+
+- First release of the CPD User Guide!
