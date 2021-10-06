@@ -8,7 +8,7 @@ Follow the instructions in the [cpd-batch-upload](https://github.com/NREL/cpd-ba
 
 ## Formatting data in CSV or JSON for upload
 
-To upload using the [cpd-batch-upload](https://github.com/NREL/cpd-batch-upload) Python library, you will first need a properly formatted comma-separated values (CSV) or JavaScript Object Notation (JSON) file containing the data to be uploaded. Examples of CSV and JSON (JSON coming soon) files can be found [here](https://github.com/NREL/cpd-batch-upload), and the parameter names in those files correspond to those in the [parameter guide](/parameter-guide).
+To upload using the [cpd-batch-upload](https://github.com/NREL/cpd-batch-upload) Python library, you will first need a properly formatted comma-separated values (CSV) or JavaScript Object Notation (JSON) file containing the data to be uploaded. Examples of CSV and JSON (JSON coming soon) files can be found [here](https://github.com/NREL/cpd-batch-upload/tree/master/input_examples), and the parameter names in those files correspond to those in the [parameter guide](/parameter-guide).
 
 ## Converting computational output files to CSV format
 
