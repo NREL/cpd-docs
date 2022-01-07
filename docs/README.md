@@ -1,4 +1,4 @@
-# <span style="font-family:Arial; font-weight: bold; color:#F7941D">Catalyst Property Database</span> User Guide
+# <span style="font-weight: bold; color:#F7941D">Catalyst Property Database</span> User Guide
 
 ## Welcome! <!-- {docsify-ignore} -->
 
